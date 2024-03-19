@@ -1,0 +1,20 @@
+title: Concerto
+description: Documentation for the Concerto programming language.
+theme: just-the-docs
+
+logo: "/images/concerto.png"
+favicon_ico: "/images/favicon.ico"
+
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
+enable_copy_code_button: true
+search_enabled: true
+
+search:
+  heading_level: 1
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s/]+/
+  rel_url: true
+  button: false
